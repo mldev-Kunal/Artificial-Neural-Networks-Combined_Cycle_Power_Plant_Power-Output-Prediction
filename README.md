@@ -1,6 +1,6 @@
 # Artificial-Neural-Networks-Combined_Cycle_Power_Plant_Power-Output-Prediction
 
-The given excel file is downloaded from UCI-ML-REPOSITORY and contains 5 sheets of data as follows:
+The given dataset is downloaded from UCI-ML-REPOSITORY and contains 5 sheets of data as follows:
 
 AT - Atmospheric Temperature
 
